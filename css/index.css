@@ -302,9 +302,10 @@ nav {
 
 .boxes .box.box1:hover {
 	background-color: #fff;
-	color: #000;
+	color: transparent;
 	border: 2px solid teal;
 	box-shadow: 2px 2px 10px teal;
+	background-image: url('https://picsum.photos/100');
 }
 
 .boxes .box.box2 {
@@ -313,9 +314,10 @@ nav {
 
 .boxes .box.box2:hover {
 	background-color: #fff;
-	color: #000;
+	color: transparent;
 	border: 2px solid gold;
 	box-shadow: 2px 2px 10px gold;
+	background-image: url('https://picsum.photos/100');
 }
 
 .boxes .box.box3 {
@@ -324,9 +326,10 @@ nav {
 
 .boxes .box.box3:hover {
 	background-color: #fff;
-	color: #000;
+	color: transparent;
 	border: 2px solid cadetblue;
 	box-shadow: 2px 2px 10px cadetblue;
+	background-image: url('https://picsum.photos/100');
 }
 
 .boxes .box.box4 {
@@ -335,9 +338,10 @@ nav {
 
 .boxes .box.box4:hover {
 	background-color: #fff;
-	color: #000;
+	color: transparent;
 	border: 2px solid coral;
 	box-shadow: 2px 2px 10px coral;
+	background-image: url('https://picsum.photos/100');
 }
 
 .boxes .box.box5 {
@@ -346,9 +350,10 @@ nav {
 
 .boxes .box.box5:hover {
 	background-color: #fff;
-	color: #000;
+	color: transparent;
 	border: 2px solid crimson;
 	box-shadow: 2px 2px 10px crimson;
+	background-image: url('https://picsum.photos/100');
 }
 
 .boxes .box.box6 {
@@ -357,9 +362,10 @@ nav {
 
 .boxes .box.box6:hover {
 	background-color: #fff;
-	color: #000;
+	color: transparent;
 	border: 2px solid forestgreen;
 	box-shadow: 2px 2px 10px forestgreen;
+	background-image: url('https://picsum.photos/100');
 }
 
 .boxes .box.box7 {
@@ -368,9 +374,10 @@ nav {
 
 .boxes .box.box7:hover {
 	background-color: #fff;
-	color: #000;
+	color: transparent;
 	border: 2px solid darkorchid;
 	box-shadow: 2px 2px 10px darkorchid;
+	background-image: url('https://picsum.photos/100');
 }
 
 .boxes .box.box8 {
@@ -379,9 +386,10 @@ nav {
 
 .boxes .box.box8:hover {
 	background-color: #fff;
-	color: #000;
+	color: transparent;
 	border: 2px solid hotpink;
 	box-shadow: 2px 2px 10px hotpink;
+	background-image: url('https://picsum.photos/100');
 }
 
 .boxes .box.box9 {
@@ -390,9 +398,10 @@ nav {
 
 .boxes .box.box9:hover {
 	background-color: #fff;
-	color: #000;
+	color: transparent;
 	border: 2px solid indigo;
 	box-shadow: 2px 2px 10px indigo;
+	background-image: url('https://picsum.photos/100');
 }
 
 .boxes .box.box10 {
@@ -401,9 +410,10 @@ nav {
 
 .boxes .box.box10:hover {
 	background-color: #fff;
-	color: #000;
+	color: transparent;
 	border: 2px solid dodgerblue;
 	box-shadow: 2px 2px 10px dodgerblue;
+	background-image: url('https://picsum.photos/100');
 }
 
 /* ################ About Page ################## */
