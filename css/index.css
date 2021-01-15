@@ -292,48 +292,121 @@ nav {
 }
 
 /* Boxes */
+.box {
+	transition: all 0.3s ease;
+}
 
 .boxes .box.box1 {
 	background-color: teal;
+}
+
+.boxes .box.box1:hover {
+	background-color: #fff;
+	color: #000;
+	border: 2px solid teal;
+	box-shadow: 2px 2px 10px teal;
 }
 
 .boxes .box.box2 {
 	background-color: gold;
 }
 
+.boxes .box.box2:hover {
+	background-color: #fff;
+	color: #000;
+	border: 2px solid gold;
+	box-shadow: 2px 2px 10px gold;
+}
+
 .boxes .box.box3 {
 	background-color: cadetblue;
+}
+
+.boxes .box.box3:hover {
+	background-color: #fff;
+	color: #000;
+	border: 2px solid cadetblue;
+	box-shadow: 2px 2px 10px cadetblue;
 }
 
 .boxes .box.box4 {
 	background-color: coral;
 }
 
+.boxes .box.box4:hover {
+	background-color: #fff;
+	color: #000;
+	border: 2px solid coral;
+	box-shadow: 2px 2px 10px coral;
+}
+
 .boxes .box.box5 {
 	background-color: crimson;
+}
+
+.boxes .box.box5:hover {
+	background-color: #fff;
+	color: #000;
+	border: 2px solid crimson;
+	box-shadow: 2px 2px 10px crimson;
 }
 
 .boxes .box.box6 {
 	background-color: forestgreen;
 }
 
+.boxes .box.box6:hover {
+	background-color: #fff;
+	color: #000;
+	border: 2px solid forestgreen;
+	box-shadow: 2px 2px 10px forestgreen;
+}
+
 .boxes .box.box7 {
 	background-color: darkorchid;
+}
+
+.boxes .box.box7:hover {
+	background-color: #fff;
+	color: #000;
+	border: 2px solid darkorchid;
+	box-shadow: 2px 2px 10px darkorchid;
 }
 
 .boxes .box.box8 {
 	background-color: hotpink;
 }
 
+.boxes .box.box8:hover {
+	background-color: #fff;
+	color: #000;
+	border: 2px solid hotpink;
+	box-shadow: 2px 2px 10px hotpink;
+}
+
 .boxes .box.box9 {
 	background-color: indigo;
+}
+
+.boxes .box.box9:hover {
+	background-color: #fff;
+	color: #000;
+	border: 2px solid indigo;
+	box-shadow: 2px 2px 10px indigo;
 }
 
 .boxes .box.box10 {
 	background-color: dodgerblue;
 }
 
-/* About Page */
+.boxes .box.box10:hover {
+	background-color: #fff;
+	color: #000;
+	border: 2px solid dodgerblue;
+	box-shadow: 2px 2px 10px dodgerblue;
+}
+
+/* ################ About Page ################## */
 
 /* About Section */
 .about {
