@@ -240,10 +240,24 @@ a {
 .btn {
 	padding: 10px 20px;
 	border-radius: 10px;
+	margin: 10px 0;
+	cursor: pointer;
+}
+
+.btn:focus {
+	outline: none;
+}
+
+.btn-primary {
 	background-color: transparent;
 	font-size: 15px;
-	cursor: pointer;
-	margin: 10px 0;
+}
+
+.btn-primary:hover {
+	background-color: black;
+	color: #fff;
+	border: 2px solid #fff;
+	box-shadow: 2px 2px 10px black;
 }
 
 /* Header */
@@ -328,7 +342,7 @@ nav {
 }
 
 .about img {
-	/* margin-bottom: 20px; */
+	margin-top: 10px;
 }
 
 .about-info {
